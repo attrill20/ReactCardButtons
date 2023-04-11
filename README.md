@@ -6,7 +6,7 @@
 
 **1.1:**
 
-👉 This repo has the React app already created within it. You just need to install the Node modules with `npm i` in your terminal. Spend a few minutes looking around the file structure and familiarizing yourself with how the app works.
+👉 This repo has the React app already created within it. You just need to install the Node modules with `npm i` in your terminal. Spend a few minutes looking around the file structure and familiarizing yourself with how the app works. ✅
 
 **1.2:**
 
@@ -29,7 +29,7 @@ You'll see that the Card component is called within App, but it isn't defined ye
 - Create a new folder inside of the components folder and call it `Card`.
 - Inside the `Card` folder Create a new file called index.js.
 - Inside index.js, create a functional component that returns a JSX element for your card.
-- Add a className `className="card"` to the JSX as there is a className allready applied to it in App.css (you can customize the CSS if you have time!).
+- Add a className `className="card"` to the JSX as there is a className already applied to it in App.css (you can customize the CSS if you have time!).
 
 👉 Navigate back to [App.js](./src/App.js). This is the root component of our application.
 
