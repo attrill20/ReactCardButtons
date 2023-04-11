@@ -1,6 +1,9 @@
+import "../Button/index"
+import Button from "../Button";
+
 function Card (){
     return (
-        <div className="card"></div>
+        <div className="card"><Button/></div>
 
     );
 };
