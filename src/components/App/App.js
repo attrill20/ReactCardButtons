@@ -2,15 +2,16 @@ import Card from "../Card";
 import "./App.css";
 import "../Card/index.js";
 import "../Button/index.js";
-import Button from "../Button";
+//import Button from "../Button";
+
+let buttonText = "more";
 
 function App() {
   return (
     <div className="App">
-      <Card/>
-      <Card/>
-      <Card/>  
-      <Button/>
+      <Card someText={buttonText}/>
+      <Card someText={"more 2"}/>
+      <Card someText={"more 3"}/>  
     </div>
    
 
